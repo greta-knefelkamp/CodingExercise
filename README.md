@@ -1,3 +1,3 @@
 # CodingExercise
 
-At-home coding exercise for RTS Labs
+At-home coding exercise
