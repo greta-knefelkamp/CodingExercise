@@ -1,0 +1,15 @@
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.exe
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.deps.json
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.runtimeconfig.json
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.dll
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.pdb
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.dll
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\refint\CodingChallenge.dll
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
+C:\Users\E51560\Repositories\mine\C#\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
